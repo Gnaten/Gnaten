@@ -60,7 +60,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-  <h3><a href="><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"></a> Best Coin</h3>
+  <a href="localhost:gitTrolledSon<h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></a>
 </details>
 <br>
 
