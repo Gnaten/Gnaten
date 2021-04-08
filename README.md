@@ -18,7 +18,6 @@ These are some of the things that might interest you:
 <br>
 <br>
 
-
 <h3 align="center">
     Connect with me here!
 </h3>
@@ -32,7 +31,7 @@ These are some of the things that might interest you:
 <p align="center">
 ### Languages, Techonologies, and Tools I Use Almost Everyday
 </p>
-<p><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
+<p align="center"><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
 <img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C++" alt="C++">
