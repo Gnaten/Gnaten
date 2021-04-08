@@ -36,11 +36,11 @@ I use the following langauges and tools almost every day (_click to see my work!
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=Cplusplus" alt="C++">
+<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=cplusplus" alt="C++">
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
-<img src="https://img.shields.io/badge/-Win10-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
-<img src="https://img.shields.io/badge/-Chrome-292d3e?style=for-the-badge&amp;logo=Chrome" alt="Chrome">
+<img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
+<img src="https://img.shields.io/badge/-Chrome-292d3e?style=for-the-badge&amp;logo=googlechrome" alt="Chrome">
 <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepadplusplus" alt="notepad++">
 <img src="https://img.shields.io/badge/-Ansible-292d3e?style=for-the-badge&amp;logo=Ansible" alt="Ansible">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
