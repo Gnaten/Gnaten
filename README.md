@@ -59,7 +59,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-  <ul><li><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></li><li>This README.md is written using only 69 lines!</li>
+  <ul><li><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></li><li><b><i>This README.md is written using only 69 lines!</i></b></li>
   </ul>
 </details>
 <br>
