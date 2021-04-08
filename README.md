@@ -18,8 +18,6 @@ These are some of the things that might interest you:
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <h3 align="center">
     Connect with me here!
@@ -59,7 +57,7 @@ These are some of the things that might interest you:
   <p><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</p>
 </details>
 <br>
-<br>
+
 <!-- Various hit counter services (will be replaced when dwyl's service works again): -->
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
