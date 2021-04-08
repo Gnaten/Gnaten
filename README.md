@@ -31,10 +31,12 @@ These are some of the things that might interest you:
 <p align="center">
 ### Languages, Techonologies, and Tools I Use Almost Everyday
 </p>
+
+<!-- Fix Notepad++ & C++; Add android; Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center"><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C2B2B" alt="C++">
+<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=Cplusplus" alt="C++">
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
@@ -44,7 +46,7 @@ These are some of the things that might interest you:
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
 <img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
 <img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
-<img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
+<img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android"></p>
 
 <details>
   <summary>Github Activity Chart</summary>
