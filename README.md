@@ -31,9 +31,10 @@ These are some of the things that might interest you:
     <a href="https://patreon.com/gnaten" target="_blank"><img src="https://img.icons8.com/material/50/e74c3c/patreon.png"/></a>
 </p>
 
+<p align="center">
 ### Languages, Techonologies, and Tools I Use Almost Everyday
-
-<p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
+</p>
+<p><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
 <img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C++" alt="C++">
@@ -41,7 +42,7 @@ These are some of the things that might interest you:
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
 <img src="https://img.shields.io/badge/-Chrome-292d3e?style=for-the-badge&amp;logo=google-chrome" alt="Chrome">
-<img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad-plusplus" alt="notepad++">
+<img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad-plus-plus" alt="notepad++">
 <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
 <img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
 <img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
