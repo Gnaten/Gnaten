@@ -11,7 +11,7 @@
 
 > I'm a cool kid at **UC Berkeley** studying electrical engineering and computer science!
 
-These are some of the things that I likie:
+These are some of the things that might interest you:
 
 [1st Webserver](https://github.com/Gnaten/webserver) • [HTML PP](https://github.com/Gnaten/HTML/blob/master/Minimalistic%20Penis/pp-2.html) • [Miscellaneous](https://github.com/Gnaten/maybechouette)
 
@@ -57,11 +57,10 @@ I use the following langauges and tools almost every day (_click to see my work!
   </a>
 </p>
 
-<!--
 <details>
-    <summary><b>Expandable content.</b></summary>
+  <summary>Github Activity Chart</summary>
+<image align="center" src="https://activity-graph.herokuapp.com/graph?username=gnaten&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Gnaten's Github Activity Chart" />
 </details>
--->
 
 Various hit counter services (will be replaced when dwyl's service works again):
 
