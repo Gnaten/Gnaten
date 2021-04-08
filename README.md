@@ -35,20 +35,22 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <!-- Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center">
   <!-- Purposely no " to render links ded rip --> 
-    <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git" onclick="return false">
-    <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python" onclick="return false">
-    <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript" onclick="return false">
-    <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML" onclick="return false">
-    <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS" onclick="return false">
-    <img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C%2B%2B" alt="C++" onclick="return false">
-    <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS" onclick="return false">
-    <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi" onclick="return false">
-    <img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino" onclick="return false">
-    <img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif" onclick="return false">
-    <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows" onclick="return false">
-    <img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android" onclick="return false">
-    <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox" onclick="return false">
-    <a href="https://www.bigassmessage.com/4eee9"><img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++"></a>
+<a href="http://localhost:6969>
+  <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
+  <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
+  <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
+  <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
+  <img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
+  <img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
+  <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
+  <img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
+  <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
+  <a href="https://www.bigassmessage.com/4eee9"><img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++"></a>
+  </a>
 </p>
 
 <details>
@@ -58,7 +60,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-  <a><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></a>
+  <a href="localhost:gitTrolledSon><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></a>
 </details>
 <br>
 
