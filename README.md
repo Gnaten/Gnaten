@@ -34,6 +34,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 
 <!-- Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center">
+  <!-- Purposely no " to render links ded rip --> 
 <a href="http://localhost:6969>
   <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
   <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
@@ -59,7 +60,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-  <h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3>
+  <h3><a href="><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"></a> Best Coin</h3>
 </details>
 <br>
 
