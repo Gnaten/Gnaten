@@ -42,16 +42,21 @@ These are some of the things that might interest you:
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
 <img src="https://img.shields.io/badge/-Chrome-292d3e?style=for-the-badge&amp;logo=google-chrome" alt="Chrome">
-<img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad-plus-plus" alt="notepad++">
+<img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepadplusplus" alt="notepad++">
 <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
-<img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
-<img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
+<img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
+<img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
 <img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
 
 <details>
   <summary>Github Activity Chart</summary>
-<image align="center" src="https://activity-graph.herokuapp.com/graph?username=gnaten&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Gnaten's Github Activity Chart" />
+  <image align="center" src="https://activity-graph.herokuapp.com/graph?username=gnaten&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Gnaten's Github Activity Chart" />
+</details>
+<details>
+  <summary>Futher Insight</summary>
+  <img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin">
+  <p>Dogecoin Best Coin</p>
 </details>
 
 <!-- Various hit counter services (will be replaced when dwyl's service works again): -->
