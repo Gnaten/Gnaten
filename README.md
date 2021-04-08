@@ -5,7 +5,7 @@
 
  -->
 
-### Hey, I'm Gnaten! <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" height="16px"/>
+### My name-a Nathan <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" height="16px"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=gnaten&show_icons=true&hide_border=true" align="right"/>
 
@@ -55,10 +55,11 @@ These are some of the things that might interest you:
 </details>
 <details>
   <summary>Futher Insight</summary>
-  <img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin">
-  <p>Dogecoin Best Coin</p>
+  <br>
+  <p><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</p>
 </details>
-
+<br>
+<br>
 <!-- Various hit counter services (will be replaced when dwyl's service works again): -->
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
