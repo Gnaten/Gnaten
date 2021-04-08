@@ -17,7 +17,7 @@ These are some of the things that might interest you:
 <br>
 <br>
 <br>
-<br>
+
 
 <h3 align="center">
     Connect with me here!
