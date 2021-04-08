@@ -44,9 +44,10 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
 <img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
-<img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android"></p>
+<img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
 <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
 <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++">
+</p>
 
 <details>
   <summary>Github Activity Chart</summary>
