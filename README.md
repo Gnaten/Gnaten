@@ -65,19 +65,20 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
 
-<script>{
-  function misdefined(e){
-    if(typeof e.onselectstart != "undefined") e.onselectstart = function(){
-      return false
+```js
+function misdefined(e) {
+  if (typeof e.onselectstart != "undefined")
+    e.onselectstart = function () {
+      return false;
     };
-    else if(typeof e.MozUserSelect != "undefined") e.MozUserSelect == "none";
-    else e.onmousedown = function(){
-      return false
+  else if (typeof e.MozUserSelect != "undefined") e.MozUserSelect == "none";
+  else
+    e.onmousedown = function () {
+      return false;
     };
-    e.style.cursor = "default";
-  };
-  window.onload = function(){
-    misdefined(document.body)
-  }
+  e.style.cursor = "default";
 }
-</script>
+window.onload = function () {
+  misdefined(document.body);
+};
+```
