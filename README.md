@@ -34,6 +34,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 
 <!-- Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center">
+<a href="http://localhost:3000>
   <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
   <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
   <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
@@ -47,7 +48,8 @@ Languages, Techonologies, and Tools I Use Almost Everyday
   <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
   <img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
   <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
-  <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++" href="https://">
+  <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++">
+  </a>
 </p>
 
 <details>
@@ -64,21 +66,3 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <!-- Various hit counter services (will be replaced when dwyl's service works again): -->
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
-
-```js
-function misdefined(e) {
-  if (typeof e.onselectstart != "undefined")
-    e.onselectstart = function () {
-      return false;
-    };
-  else if (typeof e.MozUserSelect != "undefined") e.MozUserSelect == "none";
-  else
-    e.onmousedown = function () {
-      return false;
-    };
-  e.style.cursor = "default";
-}
-window.onload = function () {
-  misdefined(document.body);
-};
-```
