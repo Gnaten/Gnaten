@@ -17,6 +17,9 @@ These are some of the things that might interest you:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <h3 align="center">
     Connect with me here!
@@ -30,35 +33,21 @@ These are some of the things that might interest you:
 
 I use the following langauges and tools almost every day (_click to see my work!_):
 
-<p align="center">
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=c">
-    <img src="https://img.icons8.com/ios/50/000000/c-plus-plus-logo.png" alt="C++" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=python">
-    <img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=javascript">
-    <img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="Javascript" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=java">
-    <img src="https://img.icons8.com/ios/50/000000/java-coffee-cup-logo.png" alt="Java" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong?tab=repositories&q=&type=&language=shell">
-    <img src="https://img.icons8.com/ios/64/000000/linux.png" alt="Linux" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong/TI-Tools">
-    <img src="https://img.icons8.com/ios/50/000000/windows-logo.png" alt="Windows" width="30px"/>
-  </a>
-  <a href="https://github.com/gideontong/config">
-    <img src="https://img.icons8.com/ios/80/000000/mac-os.png" alt="macOS" width="30px"/>
-  </a>
-  <a href="https://gideontong.me">
-    <img src="https://img.icons8.com/ios/50/000000/raspberry-pi.png" alt="Raspberry Pi" width="30px"/>
-  </a>
-  <a href="https://gideontong.me">
-    <img src="https://img.icons8.com/ios/32/000000/arduino.png" alt="Arduino" width="30px"/>
-  </a>
-</p>
+<p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
+<img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
+<img src="https://img.shields.io/badge/-Java-292d3e?style=for-the-badge&amp;logo=Java" alt="Java">
+<img src="https://img.shields.io/badge/-C-292d3e?style=for-the-badge&amp;logo=C" alt="C">
+<img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
+<img src="https://img.shields.io/badge/-Vim-292d3e?style=for-the-badge&amp;logo=Vim" alt="Vim">
+<img src="https://img.shields.io/badge/-JetBrains-292d3e?style=for-the-badge&amp;logo=JetBrains" alt="JetBrains">
+<img src="https://img.shields.io/badge/-Linux-292d3e?style=for-the-badge&amp;logo=Linux" alt="Linux">
+<img src="https://img.shields.io/badge/-macOS-292d3e?style=for-the-badge&amp;logo=macOS" alt="macOS">
+<img src="https://img.shields.io/badge/-Ansible-292d3e?style=for-the-badge&amp;logo=Ansible" alt="Ansible">
+<img src="https://img.shields.io/badge/-Digital%20Ocean-292d3e?style=for-the-badge&amp;logo=DigitalOcean" alt="Digital Ocean">
+<img src="https://img.shields.io/badge/-Apache-292d3e?style=for-the-badge&amp;logo=Apache" alt="Apache">
+<img src="https://img.shields.io/badge/-Brave-292d3e?style=for-the-badge&amp;logo=Brave" alt="Brave">
+<img src="https://img.shields.io/badge/-DuckDuckGo-292d3e?style=for-the-badge&amp;logo=DuckDuckGo" alt="DuckDuckGo"></p>
 
 <details>
   <summary>Github Activity Chart</summary>
