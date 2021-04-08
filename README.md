@@ -32,7 +32,6 @@ These are some of the things that might interest you:
 Languages, Techonologies, and Tools I Use Almost Everyday
 </h3>
 
-<!-- Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center">
   <!-- Purposely no " to render links ded rip --> 
 <a href="http://localhost:6969>
@@ -60,7 +59,11 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-    <h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin" onclick="return false"> Best Coin</h3>
+  <ul>
+    <li><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></li>
+    <li>This README.md is written using only 69 lines!</li>
+  </ul>
+    
 </details>
 <br>
 
