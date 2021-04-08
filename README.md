@@ -48,7 +48,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
   <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
   <img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
   <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
-  <a href="https://www.bigassmessage.com/4eee9"><img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++"></a>
+  <a href="https://www.bigassmessage.com/4eee9"><img src="https://img.shields.io/badge/-Notepad++-293e37?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++"></a>
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <details>
   <summary>Futher Insight</summary>
   <br>
-  <ul><li><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></li><li><b>This README.md is written using only <i>69</i> lines!  :O))</b></li>
+  <ul><li><h3><img src="https://img.shields.io/badge/-Dogecoin-292d3e?style=for-the-badge&amp;logo=Dogecoin" alt="Dogecoin"> Best Coin</h3></li><li><b>This README.md is written using only <i>69</i> lines!</b></li>
   </ul>
 </details>
 <br>
