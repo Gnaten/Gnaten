@@ -29,10 +29,10 @@ These are some of the things that might interest you:
 </p>
 
 <p align="center">
-### Languages, Techonologies, and Tools I Use Almost Everyday
+Languages, Techonologies, and Tools I Use Almost Everyday
 </p>
 
-<!-- Fix Notepad++ & C++; Add android; Rearrange Badges; Continue to Improvise and Innovate -->
+<!-- Fix Notepad++ & C++; Rearrange Badges; Continue to Improvise and Innovate -->
 <p align="center"><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
@@ -40,7 +40,7 @@ These are some of the things that might interest you:
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
-<img src="https://img.shields.io/badge/-Chrome-292d3e?style=for-the-badge&amp;logo=google-chrome" alt="Chrome">
+<img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox-browser" alt="Firefox">
 <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepadplusplus" alt="notepad++">
 <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
