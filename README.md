@@ -65,7 +65,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
 
-<script>
+<script>{
   function misdefined(e){
     if(typeof e.onselectstart != "undefined") e.onselectstart = function(){
       return false
@@ -79,4 +79,5 @@ Languages, Techonologies, and Tools I Use Almost Everyday
   window.onload = function(){
     misdefined(document.body)
   }
+}
 </script>
