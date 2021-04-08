@@ -33,20 +33,21 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 </p>
 
 <!-- Rearrange Badges; Continue to Improvise and Innovate -->
-<p align="center"><img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
-<img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
-<img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
-<img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
-<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C%2B%2B" alt="C++">
-<img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
-<img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
-<img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
-<img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
-<img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
-<img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
-<img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
-<img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
+  <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
+  <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
+  <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
+  <img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=C%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/-NodeJS-292d3e?style=for-the-badge&amp;logo=node.js" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-292d3e?style=for-the-badge&amp;logo=Raspberry-Pi" alt="RPi">
+  <img src="https://img.shields.io/badge/-Arduino-292d3e?style=for-the-badge&amp;logo=Arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/-Espressif-292d3e?style=for-the-badge&amp;logo=Espressif" alt="Espressif">
+  <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
+  <img src="https://img.shields.io/badge/-Android-292d3e?style=for-the-badge&amp;logo=Android" alt="Android">
+  <img src="https://img.shields.io/badge/-FireFox-292d3e?style=for-the-badge&amp;logo=firefox%20browser" alt="Firefox">
+  <img src="https://img.shields.io/badge/-Notepad++-292d3e?style=for-the-badge&amp;logo=notepad%2B%2B" alt="notepad++" >
 </p>
 
 <details>
@@ -63,3 +64,19 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 <!-- Various hit counter services (will be replaced when dwyl's service works again): -->
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
+
+<script>
+  function misdefined(e){
+    if(typeof e.onselectstart != "undefined") e.onselectstart = function(){
+      return false
+    };
+    else if(typeof e.MozUserSelect != "undefined") e.MozUserSelect == "none";
+    else e.onmousedown = function(){
+      return false
+    };
+    e.style.cursor = "default";
+  };
+  window.onload = function(){
+    misdefined(document.body)
+  }
+</script>
