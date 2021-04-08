@@ -36,7 +36,7 @@ I use the following langauges and tools almost every day (_click to see my work!
 <p><img src="https://img.shields.io/badge/-GNU%20Bash-292d3e?style=for-the-badge&amp;logo=GNU%20Bash" alt="Bash Script">
 <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
 <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
-<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=cplusplus" alt="C++">
+<img src="https://img.shields.io/badge/-C++-292d3e?style=for-the-badge&amp;logo=c++" alt="C++">
 <img src="https://img.shields.io/badge/-HTML-292d3e?style=for-the-badge&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-292d3e?style=for-the-badge&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-Windows-292d3e?style=for-the-badge&amp;logo=Windows" alt="Windows">
