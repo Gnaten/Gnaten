@@ -14,6 +14,8 @@
 These are some of the things that might interest you:
 
 [1st Webserver](https://github.com/Gnaten/webserver) • [HTML PP](https://github.com/Gnaten/HTML/blob/master/Minimalistic%20Penis/pp-2.html) • [Miscellaneous](https://github.com/Gnaten/maybechouette)
+<br>
+<br>
 
 <h3 align="center">
     Connect with me here!
@@ -62,6 +64,6 @@ I use the following langauges and tools almost every day (_click to see my work!
 <image align="center" src="https://activity-graph.herokuapp.com/graph?username=gnaten&bg_color=292d3e&color=a6accd&line=c692e8&point=88ddff&area=true" alt="Gnaten's Github Activity Chart" />
 </details>
 
-Various hit counter services (will be replaced when dwyl's service works again):
+<!-- Various hit counter services (will be replaced when dwyl's service works again): -->
 
 ![Hit Count](http://hits.dwyl.com/gnaten/gnaten.svg) ![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgnaten%2Fgnaten) ![Hit Count](https://visitor-badge.laobi.icu/badge?page_id=gnaten.gnaten)
