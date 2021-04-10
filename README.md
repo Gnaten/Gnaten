@@ -19,9 +19,9 @@ These are some of the things that might interest you:
 <br>
 <br>
 
-<h3 align="center">
+<h3 align="center"><i>
     Connect with me here!
-</h3>
+  </i></h3>
 
 <p align="center">
     <a href="https://gnaten.xyz" target="_blank"><img src="https://img.icons8.com/material-outlined/50/f1c40f/resume-website.png"/></a>
