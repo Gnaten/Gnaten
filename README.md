@@ -34,7 +34,7 @@ Languages, Techonologies, and Tools I Use Almost Everyday
 
 <p align="center">
   <!-- Purposely no " to render links ded rip --> 
-<a href="http://localhost:6969>
+<a href="http://localhost:6969">
   <img src="https://img.shields.io/badge/-Git-292d3e?style=for-the-badge&amp;logo=Git" alt="Git">
   <img src="https://img.shields.io/badge/-Python-292d3e?style=for-the-badge&amp;logo=Python" alt="Python">
   <img src="https://img.shields.io/badge/-Javascript-292d3e?style=for-the-badge&amp;logo=Javascript" alt="Javascript">
