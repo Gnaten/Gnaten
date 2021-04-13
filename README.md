@@ -13,7 +13,7 @@
 
 These are some of the things that might interest you:
 
-[1st Webserver](https://github.com/Gnaten/webserver) • [HTML PP](https://github.com/Gnaten/HTML/blob/master/Minimalistic%20Penis/pp-2.html) • [Miscellaneous](https://github.com/Gnaten/maybechouette)
+[Webserver](https://github.com/Gnaten/webserver) • [HTML PP](https://github.com/Gnaten/HTML/blob/master/Minimalistic%20Penis/pp-2.html) • [Miscellaneous](https://github.com/Gnaten/maybechouette)
 <br>
 <br>
 <br>
