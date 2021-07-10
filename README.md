@@ -9,7 +9,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gnaten&show_icons=true&hide_border=true" align="right"/>
 
-> I'm a cool kid at **UC Berkeley** studying electrical engineering and computer science! I post stuff here when I feel like it, so get used to it...
+> I'm a cool kid passionate in electrical engineering and computer science! I post stuff here when I feel like it, so get used to it...
 
 These are some of the things that might interest you:
 
