@@ -14,10 +14,8 @@
 These are some of the things that might interest you:
 
 [Webserver](https://github.com/Gnaten/webserver) • [HTML PP](https://github.com/Gnaten/HTML/blob/master/Minimalistic%20Penis/pp-2.html) • [Miscellaneous](https://github.com/Gnaten/maybechouette)
-<br>
-<br>
-<br>
-<br>
+
+<br><br><br><br>
 
 <h3 align="center"><i>
     Connect with me here!
